@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "6018349725",
+      "firebase_url": "https://workerhub-8cc2a.firebaseio.com",
+      "project_id": "workerhub-8cc2a",
+      "storage_bucket": "workerhub-8cc2a.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:6018349725:android:1e66f76cf5395192c77274",
+          "android_client_info": {
+            "package_name": "com.example.workerhub_app"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "6018349725-8hn4nmp17shoq3k220rtlki5uf0rk8ce.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBnp9swUbQ_cmOT1YoVo2J7tPtAQYkh9lQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "6018349725-8hn4nmp17shoq3k220rtlki5uf0rk8ce.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
